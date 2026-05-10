@@ -9,24 +9,43 @@ The platform includes advanced authentication, OTP verification, role-based acce
 ---
 
 ## 📸 Application Preview
+<img width="1894" height="831" alt="Screenshot 2026-05-10 195939" src="https://github.com/user-attachments/assets/ce91f686-dfaa-4913-ab7f-80734296c44f" />
+<img width="1907" height="890" alt="Screenshot 2026-05-10 195743" src="https://github.com/user-attachments/assets/890ceb6d-38e5-4175-849e-fbe38cc4671c" />
+<img width="1917" height="882" alt="Screenshot 2026-05-10 195835" src="https://github.com/user-attachments/assets/08ae3016-6aef-4c96-8939-756948a26a8d" />
+<img width="1916" height="880" alt="Screenshot 2026-05-10 195907" src="https://github.com/user-attachments/assets/d684fcd9-0f83-42e3-9ce0-0fe3b456e4ef" />
+<img width="1894" height="831" alt="Screenshot 2026-05-10 195939" src="https://github.com/user-attachments/assets/2155fa77-90ca-4df4-8523-bd1c28f67f30" />
+<img width="1515" height="869" alt="Screenshot 2026-05-10 200019" src="https://github.com/user-attachments/assets/a54d1132-4ceb-44fc-90dd-5b941ed995f3" />
+<img width="1817" height="768" alt="Screenshot 2026-05-10 200042" src="https://github.com/user-attachments/assets/4112c0d0-15d8-4b6c-ab55-81473179403d" />
+<img width="1809" height="873" alt="Screenshot 2026-05-10 200145" src="https://github.com/user-attachments/assets/607af05e-c774-4f7d-933c-697c2b210c14" />
+<img width="1460" height="869" alt="Screenshot 2026-05-10 200231" src="https://github.com/user-attachments/assets/62998284-59f3-4f19-8a2d-ffc9eaeded42" />
+<img width="1415" height="868" alt="Screenshot 2026-05-10 200301" src="https://github.com/user-attachments/assets/86ddf503-5d10-4dd0-81c5-f27325205fe0" />
+<img width="1428" height="842" alt="Screenshot 2026-05-10 200359" src="https://github.com/user-attachments/assets/82a09676-bd53-49a3-baa2-c1cb06f9852b" />
+<img width="1833" height="841" alt="Screenshot 2026-05-10 200421" src="https://github.com/user-attachments/assets/87880ffd-eb00-4b02-8ab3-f53680fefd12" />
+<img width="1600" height="860" alt="Screenshot 2026-05-10 200527" src="https://github.com/user-attachments/assets/b55ba97e-94d8-4776-a124-e1c9618f9a15" />
+<img width="1627" height="958" alt="Screenshot 2026-05-10 200600" src="https://github.com/user-attachments/assets/fc55fb4d-212f-4732-a3da-1cf67ec2707d" />
+<img width="1246" height="921" alt="Screenshot 2026-05-10 200629" src="https://github.com/user-attachments/assets/a182e3d2-9072-43f1-b4e4-206b8eae67fa" />
+<img width="1463" height="908" alt="Screenshot 2026-05-10 200807" src="https://github.com/user-attachments/assets/d6fe1795-bb16-43b5-b4ef-3ca5e3fb3432" />
+<img width="1832" height="863" alt="Screenshot 2026-05-10 200834" src="https://github.com/user-attachments/assets/84e84789-7265-4b75-9830-978151a7baab" />
 
-### 🏠 Home Page
-![Home](./screenshots/home.png)
 
-### 🎟️ Events Page
-![Events](./screenshots/events.png)
 
-### 🔐 Authentication Page
-![Authentication](./screenshots/auth.png)
 
-### 👨‍💻 Admin Dashboard
-![Dashboard](./screenshots/dashboard.png)
 
-### 📩 OTP Verification
-![OTP](./screenshots/otp.png)
 
-### 👤 User Dashboard
-![User Dashboard](./screenshots/user-dashboard.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
