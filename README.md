@@ -71,6 +71,89 @@ Built with:
 - Smooth micro-interactions
 
 ---
+# 🚀 Setup Instructions
+
+## 📋 Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- Node.js
+- MongoDB Atlas or Local MongoDB Database
+- Git
+
+---
+
+## 1️⃣ Environment Variables Configuration
+
+Navigate to:
+
+```bash
+server/.env
+```
+
+Add the following environment variables:
+
+```env
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=supersecretjwtkey_eventora
+EMAIL_USER=your_gmail_address
+EMAIL_PASS=your_gmail_app_password
+PORT=5000
+```
+
+> ⚠️ Note:  
+> For `EMAIL_PASS`, generate a Google App Password.  
+> Your normal Gmail password will not work because of 2FA security.
+
+---
+
+## 2️⃣ Install Dependencies
+
+Run the following command from the project root:
+
+```bash
+npm install
+npm run install:all
+```
+
+---
+
+## 3️⃣ Start Development Server
+
+```bash
+npm run dev
+```
+
+This command starts both:
+- Frontend client
+- Backend server
+
+using `concurrently`.
+
+---
+
+## 4️⃣ Production Preview
+
+To run the backend and frontend preview together:
+
+```bash
+npm run start
+```
+
+---
+
+## 📁 Project Structure
+
+```bash
+Eventora/
+│
+├── client/         # React Frontend
+├── server/         # Node.js Backend
+├── README.md
+└── package.json
+```
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -89,22 +172,22 @@ Built with:
 
 ---
 
-## 🚀 Key Highlights
-- Full-stack MERN architecture
-- Secure OTP-based authentication
-- Admin-controlled booking management
-- Scalable and responsive UI
-- Modern dark-themed interface
+## ✅ Features Included
+
+- Secure JWT Authentication
+- Email OTP Verification
+- Role-Based Access Control
+- Event Booking System
+- Admin Dashboard
+- Real-Time Seat Validation
+- Responsive UI/UX
+- Email Notifications
 
 ---
 
-## 📌 Future Improvements
-- Integrated payment gateway
-- QR-based ticket verification
-- Real-time notifications
-- Event recommendation system
+## 📌 Future Enhancements
 
----
-
-## 📄 License
-This project is built for learning, portfolio, and development purposes.
+- Payment Gateway Integration
+- QR Ticket Verification
+- Real-Time Notifications
+- AI-Based Event Recommendations
