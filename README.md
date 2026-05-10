@@ -1,8 +1,32 @@
 # Eventora - Full-Stack Event Booking Platform
 
+![Home Page](./screenshots/home.png)
+
 Eventora is a modern full-stack MERN event booking platform that enables users to discover, register, and manage events with a seamless and secure experience.
 
 The platform includes advanced authentication, OTP verification, role-based access control, and an administrative dashboard for managing free and paid events.
+
+---
+
+## 📸 Application Preview
+
+### 🏠 Home Page
+![Home](./screenshots/home.png)
+
+### 🎟️ Events Page
+![Events](./screenshots/events.png)
+
+### 🔐 Authentication Page
+![Authentication](./screenshots/auth.png)
+
+### 👨‍💻 Admin Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### 📩 OTP Verification
+![OTP](./screenshots/otp.png)
+
+### 👤 User Dashboard
+![User Dashboard](./screenshots/user-dashboard.png)
 
 ---
 
@@ -71,6 +95,7 @@ Built with:
 - Smooth micro-interactions
 
 ---
+
 # 🚀 Setup Instructions
 
 ## 📋 Prerequisites
@@ -149,6 +174,7 @@ Eventora/
 │
 ├── client/         # React Frontend
 ├── server/         # Node.js Backend
+├── screenshots/   # Project Screenshots
 ├── README.md
 └── package.json
 ```
