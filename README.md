@@ -1,20 +1,52 @@
 Eventora - Full-Stack Event Booking Platform
-Eventora is a full-stack MERN application that allows users to seamlessly browse, register, and pay natively without any third party tools. It features an administrative dashboard for event organizers to create and manage free and paid events. All bookings can be managed manually by an admin to handle payments directly.
 
+Eventora is a modern full-stack MERN event booking platform that enables users to discover, register, and manage events with a seamless and secure experience. The platform includes advanced authentication, OTP verification, role-based access control, and an administrative dashboard for managing free and paid events.
 
-Features
-User Authentication: Secure login & registration with JWT and bcrypt.
-2FA OTP Verification:
-Mandatory Email OTP to activate your account upon Registration (or delayed login attempts).
-Mandatory Email OTP to finalize and secure event ticket booking.
-Role-Based Access:
-Admin: Create, edit, and delete events. Confirm and reject all incoming booking requests, mark them as 'Paid' or 'Not Paid'. Access is strictly locked to database-flagged users only.
-User: Browse events, submit ticket booking requests via OTP, view personal dashboard pending status, and cancel bookings.
-Event Management: Create free and paid events with detailed descriptions, external image URLs, dates, categories, and seating capacity.
-Smart Booking System:
-Mandatory 2FA OTP to authorize a booking request.
-All booking requests (both free and paid) enter a secure 'Pending' queue for Admin verification.
-Seat availability accurately updates and securely validates against overbooking logic.
-Admin Analytics Dashboard: Track live data such as Pending Requests, Total Revenue, and Total Confirmed Paid Clients directly from the admin panel.
-Email Notifications: Automated email delivery upon successful booking confirmation using Nodemailer.
-Sleek UI/UX: Built entirely with React, Tailwind CSS, and polished with micro-interactions.
+✨ Features
+🔐 Authentication & Security
+Secure user registration and login using JWT authentication and bcrypt.
+Mandatory Email OTP verification for account activation.
+2FA OTP verification for secure event booking confirmation.
+👥 Role-Based Access
+Admin
+Create, edit, and delete events.
+Manage booking requests and payment status.
+Access a powerful analytics dashboard.
+User
+Browse and discover upcoming events.
+Book free and paid events securely.
+Manage bookings directly from the personal dashboard.
+🎟️ Event Management
+Create free and paid events with:
+Event descriptions
+Categories
+Dates & timing
+External image URLs
+Seating capacity
+⚡ Smart Booking System
+OTP-secured booking requests.
+Pending verification workflow for admin approval.
+Automatic seat validation to prevent overbooking.
+📊 Admin Dashboard
+
+Track platform activity with real-time analytics:
+
+Pending booking requests
+Confirmed bookings
+Revenue tracking
+User management
+📧 Email Notifications
+
+Automated email services powered by Nodemailer:
+
+OTP verification emails
+Booking confirmation emails
+Status update notifications
+🎨 Modern UI/UX
+
+Built with:
+
+React.js
+Tailwind CSS
+Responsive design
+Smooth micro-interactions
