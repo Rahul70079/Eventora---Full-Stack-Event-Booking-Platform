@@ -1,7 +1,5 @@
 # Eventora - Full-Stack Event Booking Platform
 
-![Home Page](./screenshots/home.png)
-
 Eventora is a modern full-stack MERN event booking platform that enables users to discover, register, and manage events with a seamless and secure experience.
 
 The platform includes advanced authentication, OTP verification, role-based access control, and an administrative dashboard for managing free and paid events.
