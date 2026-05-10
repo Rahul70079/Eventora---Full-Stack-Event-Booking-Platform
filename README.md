@@ -25,26 +25,6 @@ The platform includes advanced authentication, OTP verification, role-based acce
 <img width="1627" height="958" alt="Screenshot 2026-05-10 200600" src="https://github.com/user-attachments/assets/fc55fb4d-212f-4732-a3da-1cf67ec2707d" />
 <img width="1246" height="921" alt="Screenshot 2026-05-10 200629" src="https://github.com/user-attachments/assets/a182e3d2-9072-43f1-b4e4-206b8eae67fa" />
 <img width="1463" height="908" alt="Screenshot 2026-05-10 200807" src="https://github.com/user-attachments/assets/d6fe1795-bb16-43b5-b4ef-3ca5e3fb3432" />
-<img width="1832" height="863" alt="Screenshot 2026-05-10 200834" src="https://github.com/user-attachments/assets/84e84789-7265-4b75-9830-978151a7baab" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ---
